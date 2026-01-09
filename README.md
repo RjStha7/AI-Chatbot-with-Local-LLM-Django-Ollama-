@@ -30,7 +30,7 @@ source myenv/bin/activate
 2. Install required Python packages (this project uses `requests`):
 
 ```bash
-pip install -r requirements.txt
+pip install -r requirements.txt #NOTE: requirements.txt will be provided later
 # or, if you don't have requirements.txt:
 pip install requests
 ```
